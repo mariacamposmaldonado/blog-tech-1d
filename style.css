@@ -4,6 +4,7 @@ color: #fff;
 text-align: center;
 max-width: 800px;
 margin: 0 auto;
+padding: 16px;
 }
 
 main{
@@ -11,4 +12,10 @@ background-color: #26e7e4;
 color: #f6f8f5;
 max-width: 800px;
 margin: 0 auto;
+padding: 16px;
+}
+
+img{
+width: 80px;
+height: 80px;
 }
