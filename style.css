@@ -1,5 +1,5 @@
 header{
-    background-color: #bb6ee8;
+    background-color: #d591fc;
 color: #fff;
 text-align: center;
 max-width: 800px;
@@ -7,13 +7,17 @@ margin: 0 auto;
 padding: 16px;
 }
 
+h1{
+    color: #da4a4a;
+}
+
 main{
-background-color: #26e7e4;
+background-color: #82f0ee;
 color: #f6f8f5;
 max-width: 800px;
 margin: 0 auto;
 padding: 16px;
-}
+display: flex;/*ativa o flexbox para alinhar os elementos*/}
 
 img{
 width: 80px;
