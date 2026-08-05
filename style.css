@@ -20,8 +20,11 @@ padding: 16px;
 display: flex;/*ativa o flexbox para alinhar os elementos*/}
 
 img{
-width: 80px;
-height: 80px;
+width: 150px;
+height: 150px;
+border: 2px solid #3135f0c2;
+display:block ;
+margin: 0 auto ;
 }
 
 img{
