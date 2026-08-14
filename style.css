@@ -5,7 +5,7 @@ margin: 0;
 padding: 0;}
 
 header {
-background-color: #b4cbc5; /* cor de fundo */
+background-color: #88583d; /* cor de fundo */
 color: #013005; /* cor da fonte */
 text-align: center; /* centraliza o texto horizontalmente */
 max-width: 800px; /*define a largura maxima que o elemento pode ter */
@@ -17,7 +17,7 @@ h1{
 color: #9168b8;}
 main{
 background-color:
-#e2e7cc;
+#7894e0;
 color: #013005;
 max-width: 800px;
 margin: 0 auto;
@@ -44,9 +44,9 @@ font-weight: bold; /* deixa o texto em negrito */
 max-width: 65ch; /*Limita a linha a cerca de 45 caracteres */
 }
 footer {
-background-color: #b4cbc5;
+background-color: #a171c0;
 /* Mesma cor escura do texto do header para combinar */
-color: #013005;
+color: #54c45d;
 /* Cor da fonte branca para dar contraste e leitura */
 text-align: center;
 /* Centraliza o texto horizontalmente */
