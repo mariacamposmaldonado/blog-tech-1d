@@ -5,7 +5,7 @@ margin: 0;
 padding: 0;}
 
 header {
-background-color: #88583d; /* cor de fundo */
+background-color: #4c855a; /* cor de fundo */
 color: #013005; /* cor da fonte */
 text-align: center; /* centraliza o texto horizontalmente */
 max-width: 800px; /*define a largura maxima que o elemento pode ter */
@@ -30,8 +30,8 @@ margin-bottom: 60px; /* Empurra o artigo de baixo, criando o espaço */
 }
 img{
 width: 150px; / define a largura fixa da imagem */
-height: ; 150px; /* define a altura fixa da imagem */
-border: 2px solid #17048f; /* adiciona uma borda sólida de 2px na cor azul/roxa */
+height:  150px; /* define a altura fixa da imagem */
+border: 2px solid #aa7dd4; /* adiciona uma borda solida de 2px na cor azul/roxa */
 display: block; /* transforma a imagem em um bloco para aceitar margens verticais e quebra de linha */
 margin: 0 auto; /* centraliza a imagem horizontalmente na tela */
 align-self: center;
