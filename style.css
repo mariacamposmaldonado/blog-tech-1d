@@ -45,7 +45,7 @@ max-width: 65ch; /*Limita a linha a cerca de 45 caracteres */
 footer {
 background-color: #c680f5;
 /* Mesma cor escura do texto do header para combinar */
-color: #54c45d;
+color: #000000;
 /* Cor da fonte branca para dar contraste e leitura */
 text-align: center;
 /* Centraliza o texto horizontalmente */

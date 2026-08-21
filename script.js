@@ -16,6 +16,4 @@ curtiu = true;
 texto.textContent--; // Subtrai 1 do número do contador (desfaz a curtida)
 curtiu false;
 // Volta o status para false (permitindo curtir de novo depois)
-}
-}
-});
+};
