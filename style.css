@@ -5,7 +5,7 @@ margin: 0;
 padding: 0;}
 
 header {
-background-color: #75a581; /* cor de fundo */
+background-color: #1df553; /* cor de fundo */
 color: #013005; /* cor da fonte */
 text-align: center; /* centraliza o texto horizontalmente */
 max-width: 800px; /*define a largura maxima que o elemento pode ter */
@@ -18,7 +18,7 @@ color: #9168b8;}
 main{
 background-color:
 #ba5ef0;
-color: #013005;
+color: #60b867;
 max-width: 800px;
 margin: 0 auto;
 padding: 16px;
@@ -43,7 +43,7 @@ font-weight: bold; /* deixa o texto em negrito */
 max-width: 65ch; /*Limita a linha a cerca de 45 caracteres */
 }
 footer {
-background-color: #a171c0;
+background-color: #c680f5;
 /* Mesma cor escura do texto do header para combinar */
 color: #54c45d;
 /* Cor da fonte branca para dar contraste e leitura */
